@@ -31,7 +31,7 @@ Open the file config/app.php
 ```php
 "providers": {
     ...
-    'Cevv13\LaravelFormAjaxValidation\LaravelFormAjaxValidationServiceProvider',
+    'Cevv13\FormAjaxSubmit\FormAjaxSubmitServiceProvider',
     ...
 },
 ```
@@ -134,4 +134,4 @@ You need jQuery 1.11.2 or higher
 
 ### License
 
-The laravel-form-ajax-validation library is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The form-ajax-submit library is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
