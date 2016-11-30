@@ -1,10 +1,10 @@
 # Form-ajax-submit
 Make ajax validation with Laravel Requests for forms with bootstrap
 
+This work is an adaptation of: https://github.com/guicho0601/laravel-form-ajax-validation
+
 See the [full documentation.](https://github.com/guicho0601/laravel-form-ajax-validation/wiki)
 
-O la
-[Documentación en español](https://github.com/guicho0601/laravel-form-ajax-validation/wiki/Inicio)
 
 ##Installation
 
@@ -128,9 +128,8 @@ You need jQuery 1.11.2 or higher
 ***
 
 ### Author
-
-- __Name:__ Luis Ramos
-- __Email:__ guicholarg@gmail.com
+- __Name:__ Carlos Villarroel
+- __Email:__ cevv13@hotmail.com
 
 ### License
 
