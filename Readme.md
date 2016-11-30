@@ -41,7 +41,7 @@ Open the file config/app.php
 You need to publish the necessary views for create the scripts of jQuery
 
 ```console
-$ php artisan vendor:publish
+$ php artisan vendor:publish --tag=formajaxsubmit
 ```
 
 ### Author
