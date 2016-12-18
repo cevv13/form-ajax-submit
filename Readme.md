@@ -42,6 +42,8 @@ You need to publish the necessary views for create the scripts of jQuery
 
 ```console
 $ php artisan vendor:publish --tag=formajaxsubmit
+ó
+$ php artisan vendor:publish --provider="Cevv13\FormAjaxSubmit\FormAjaxSubmitServiceProvider"
 ```
 
 ### Author
