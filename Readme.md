@@ -36,12 +36,6 @@ Open the file config/app.php
 },
 .
 .
-.
-"aliases": {
-    ...
-    'Alert' => UxWeb\SweetAlert\SweetAlert::class,
-    ...
-},
 ```
 
 ### 3. Publish vendor resources
