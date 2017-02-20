@@ -21,5 +21,6 @@
             "Cevv13\\FormAjaxSubmit": "src/"
         }
     },
+    "prefer-stable": true,
     "minimum-stability": "dev"
 }
