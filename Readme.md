@@ -34,6 +34,14 @@ Open the file config/app.php
     'Cevv13\FormAjaxSubmit\FormAjaxSubmitServiceProvider',
     ...
 },
+.
+.
+.
+"aliases": {
+    ...
+    'Alert' => UxWeb\SweetAlert\SweetAlert::class,
+    ...
+},
 ```
 
 ### 3. Publish vendor resources
