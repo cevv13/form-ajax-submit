@@ -10,7 +10,7 @@ See the [full documentation.](https://github.com/guicho0601/laravel-form-ajax-va
 
 ### 1. Composer
 
-Add to the composer of your project
+Add to the composer of your project mediante
 
 ```console
 composer require cevv13/form-ajax-submit
@@ -38,7 +38,7 @@ Open the file config/app.php
 .
 ```
 
-### 3. Publish vendor resources
+### 3. Publish vendor resources:  
 
 You need to publish the necessary views for create the scripts of jQuery
 
